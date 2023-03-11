@@ -1,0 +1,8 @@
+C:\Users\silas\source\repos\Exercicios_Apostila_2_CSHARP\bin\Debug\Exercicios_Apostila_2_CSHARP.exe.config
+C:\Users\silas\source\repos\Exercicios_Apostila_2_CSHARP\bin\Debug\Exercicios_Apostila_2_CSHARP.exe
+C:\Users\silas\source\repos\Exercicios_Apostila_2_CSHARP\bin\Debug\Exercicios_Apostila_2_CSHARP.pdb
+C:\Users\silas\source\repos\Exercicios_Apostila_2_CSHARP\obj\Debug\Exercicios_Apostila_2_CSHARP.csproj.AssemblyReference.cache
+C:\Users\silas\source\repos\Exercicios_Apostila_2_CSHARP\obj\Debug\Exercicios_Apostila_2_CSHARP.csproj.SuggestedBindingRedirects.cache
+C:\Users\silas\source\repos\Exercicios_Apostila_2_CSHARP\obj\Debug\Exercicios_Apostila_2_CSHARP.csproj.CoreCompileInputs.cache
+C:\Users\silas\source\repos\Exercicios_Apostila_2_CSHARP\obj\Debug\Exercicios_Apostila_2_CSHARP.exe
+C:\Users\silas\source\repos\Exercicios_Apostila_2_CSHARP\obj\Debug\Exercicios_Apostila_2_CSHARP.pdb
