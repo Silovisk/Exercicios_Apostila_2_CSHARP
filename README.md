@@ -36,6 +36,8 @@ Passo 3. a = b
 Passo 4. b = r
 Passo 5. Se o valor de r é zero então a é o M.D.C. procurado e o programa termina; caso contrário volte ao passo 2.
 Seguindo este algoritmo manualmente, com um lápis e papel, é possível calcular o M.D.C. entre 544 e 119, escrevendo a seguinte tabela:
+
+![image](https://user-images.githubusercontent.com/77333741/224454494-c00bc50a-35a0-4540-bc88-42fa95c69f5f.png)
 _____
 Exercício 8
 
