@@ -187,6 +187,8 @@ namespace Exercicios_Apostila_2_CSHARP
                 Console.WriteLine("0 Para Finalizar");
                 escolha = Console.ReadLine();
 
+                Console.Clear();
+
                 switch (escolha)
                 {
                     case "1":
